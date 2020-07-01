@@ -1,0 +1,10 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+}
+
+#app-title {
+  width: fit-content;
+  margin: 25px auto 10px auto;
+}
